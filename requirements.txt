@@ -1,7 +1,0 @@
-opencv-python
-dlib
-imutils
-numpy
-pandas
-scipy
-streamlit
